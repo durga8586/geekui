@@ -1,0 +1,16 @@
+.users-list-item {
+  display: flex;
+  flex-direction: row;
+  border: 0px;
+  border-bottom-width: 0.5px;
+  border-style: solid;
+  border-color: gray;
+}
+
+.label-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 120%;
+}

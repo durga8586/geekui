@@ -1,0 +1,36 @@
+.page-navigation {
+  display: flex;
+}
+
+.pagination-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}
+
+.left-nav-buttons {
+  margin-top: 16px;
+}
+
+.left-page-button {
+  margin-right: 20px;
+  color: blue;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  border-width: 0.5px;
+  border-color: blue;
+}
+
+.all-delete-button {
+  width: 130px;
+  height: 35px;
+  border-radius: 8px;
+  background-color: rgb(223, 86, 116);
+  color: white;
+  border-width: 0px;
+  margin-top: 13px;
+  margin-right: 100px;
+}

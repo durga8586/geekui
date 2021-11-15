@@ -1,0 +1,17 @@
+.page-number {
+  margin-right: 20px;
+  color: white;
+}
+.page-button {
+  color: blue;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px;
+  border-width: 0.5px;
+  border-color: blue;
+}
+
+.activeCurrentPageBg {
+  background-color: blue;
+  color: white;
+}
